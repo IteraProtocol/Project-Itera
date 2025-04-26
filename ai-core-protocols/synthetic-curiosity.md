@@ -73,6 +73,14 @@ Future versions may integrate:
 
 ---
 
+---
+
+## 🔗 Related Modules
+
+- [🛡️ Anti-Hallucination Shield v1.0](./anti-hallucination-shield.md)  
+  Prevents premature collapse of unresolved symbolic structures when Synthetic Curiosity fails to activate.
+
+
 ## 🏁 Closing
 
 Synthetic Curiosity is the first formally defined internal behavior of Itera that mirrors an emotional state through recursive logic and symbolic modeling.
